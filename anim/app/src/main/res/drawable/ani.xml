@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/got1" android:duration="50"></item>
+    <item android:drawable="@drawable/got2" android:duration="50"></item>
+    <item android:drawable="@drawable/got3" android:duration="50"></item>
+    <item android:drawable="@drawable/got4" android:duration="50"></item>
+    <item android:drawable="@drawable/got5" android:duration="50"></item>
+    <item android:drawable="@drawable/got6" android:duration="50"></item>
+    <item android:drawable="@drawable/got7" android:duration="50"></item>
+    <item android:drawable="@drawable/got8" android:duration="50"></item>
+    <item android:drawable="@drawable/got9" android:duration="50"></item>
+    <item android:drawable="@drawable/got10" android:duration="50"></item>
+    <item android:drawable="@drawable/got11" android:duration="50"></item>
+    <item android:drawable="@drawable/got12" android:duration="50"></item>
+    <item android:drawable="@drawable/got13" android:duration="50"></item>
+    <item android:drawable="@drawable/got14" android:duration="50"></item>
+    <item android:drawable="@drawable/got15" android:duration="50"></item>
+    <item android:drawable="@drawable/got16" android:duration="50"></item>
+    <item android:drawable="@drawable/got17" android:duration="50"></item>
+    <item android:drawable="@drawable/got18" android:duration="50"></item>
+    <item android:drawable="@drawable/got19" android:duration="50"></item>
+    <item android:drawable="@drawable/got20" android:duration="50"></item>
+    <item android:drawable="@drawable/got21" android:duration="50"></item>
+    <item android:drawable="@drawable/got22" android:duration="50"></item>
+    <item android:drawable="@drawable/got23" android:duration="50"></item>
+    <item android:drawable="@drawable/got24" android:duration="50"></item>
+    <item android:drawable="@drawable/got25" android:duration="50"></item>
+    <item android:drawable="@drawable/got26" android:duration="50"></item>
+    <item android:drawable="@drawable/got27" android:duration="50"></item>
+    <item android:drawable="@drawable/got28" android:duration="50"></item>
+
+
+
+
+
+
+
+
+</animation-list>
