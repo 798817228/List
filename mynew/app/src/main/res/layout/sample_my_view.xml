@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.example.student.mynew"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.student.mynew.MyView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+
+    <com.example.student.mynew.MyView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>
